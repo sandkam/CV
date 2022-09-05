@@ -1,12 +1,12 @@
-# Carolyn Stransky
+# Sandesh Kamath
 
-_Software engineer and journalist based in Berlin, Germany_ <br>
+_Chemical Engineer turned Natural scientist based in Leverkusen, Germany_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:sandeshkamath4sk@gmail.com) / [Website](https://sandkam.github.io/) / [LinkedIn](https://www.linkedin.com/in/sandesh-kamath-53795124/)
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Professional Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
+**Research Assistant** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Founding member of BRYTER's design system team and continued to provide support and extend the component library
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
