@@ -23,7 +23,7 @@ Built the sanDEM (using a CFD-DEM approach at particle-fluid interface) software
   - Proposed a theory for transport in low sand availability conditions.
 <br><br>
 
-**Project associate**(https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+**Project associate**, _(Aug 2020 - Jan 2021)_ <br>
 National Chemical Laboratories (NCL), Pune, India
 My first DEM project, leading to a publication - Granular flow mixing in a multi-orifice hopper [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.062206)
 <br><br>
