@@ -6,9 +6,9 @@ _Chemical Engineer turned Natural scientist based in Leverkusen, Germany_ <br>
 
 ## 👩🏼‍💻 Professional Experience
 
-**Research Assistant**, Fakultät für Physik, Universität Duisburg-Essen
+**Research Assistant**, Fakultät für Physik, Universität Duisburg-Essen <br>
 _(Sep 2021 - Present)_ <br>
-Extended the sanDEM to study dust
+Extended the sanDEM to study dust emission.
   - Highly parallelizable as the original model, with an added layer for efficient communcation in polydisperse systems.
   - Includes modules for cohesion and stochastic turbulent fluctuations.
 <br><br>
