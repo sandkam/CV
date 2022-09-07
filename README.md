@@ -49,7 +49,12 @@ National Institute of Technology (NIT), Surathkal, India _(2008 - 2012)_
   - Thesis - 'Hydrodynamic Modeling of Packed-bed reactors for biological applications'
 
 ## 🖊️ Publications
-
+<ol>
+							<li> Kamath, S., et al., 2022. <em>Scaling laws in Aeolian sand transport under low sand availability</em>, Geophysical Research Letters, 49(11).</li>
+							<li> Tholen, K., Pähtz, T., Kamath, S., et al., 2022. <em>Anomalous scaling of aeolian sand transport due to cooperative granular dynamics</em>, Physical Review Letters (in review).</li>
+							<li> Kamath, S. and Parteli, E., 2021. <em>Toward a large-scale particle-based parallel simulator of Aeolian sand transport, including a model for mobile sand availability</em>, Powders & Grains 2021. </li>
+							<li> Kamath, S., et al., 2014. <em>Flow of granular matter in a silo with multiple exit orifices: Jamming to mixing</em>, Physical Review E, 90(6). </li>
+						</ol>
 
 ## 🎤 Conferences
 - **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
@@ -61,21 +66,6 @@ National Institute of Technology (NIT), Surathkal, India _(2008 - 2012)_
 
 **Want me to speak at your event?**
 <br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
 <br><br>
 
 ## 💬 Languages
