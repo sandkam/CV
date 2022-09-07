@@ -11,6 +11,7 @@ _Chemical Engineer turned Natural scientist based in Leverkusen, Germany_ <br>
 Extended the sanDEM to study dust emission.
   - Highly parallelizable as the original model, with an added layer for efficient communcation in polydisperse systems.
   - Includes modules for cohesion and stochastic turbulent fluctuations.
+  - Have an in-depth understanding of modeling soft/hard cohesive elastic spheres using DEM.
 <br><br>
 
 **Research Assistant**, _(Sep 2017 - Aug 2021)_ <br>
