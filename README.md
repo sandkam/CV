@@ -7,29 +7,30 @@ _Chemical Engineer turned Natural scientist based in Leverkusen, Germany_ <br>
 ## 👩🏼‍💻 Professional Experience
 
 **Research Assistant**, _(Sep 2021 - Present)_ <br>
- Fakultät für Physik, Universität Duisburg-Essen <br>
+Fakultät für Physik, Universität Duisburg-Essen <br>
 Extended the sanDEM to study dust emission.
   - Highly parallelizable as the original model, with an added layer for efficient communcation in polydisperse systems.
   - Includes modules for cohesion and stochastic turbulent fluctuations.
   - Have an in-depth understanding of modeling soft/hard cohesive elastic spheres using DEM.
+  - Was involved in teaching the course 'Physik partikulärer Systeme in Umwelt und Planetenforschung'.
+  - Projects as tutor - Dust sedimentation, Packing of charged grains, Charged sand piles.
 <br><br>
 
 **Research Assistant**, _(Sep 2017 - Aug 2021)_ <br>
-Institut für Geophysik und Meteorologie, Universität Duisburg-Essen <br>
+Institut für Geophysik und Meteorologie, Universität zu Köln <br>
 Built the sanDEM (using a CFD-DEM approach at particle-fluid interface) software for aeolian sand transport, right from scratch.
   - An open-source, large scale, parallelizable granular model developed in [LAMMPS](https://www.lammps.org/).
   - Proposed a theory for transport in low sand availability conditions.
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Project associate**(https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+National Chemical Laboratories (NCL), Pune, India
+My first DEM project, leading to a publication - Granular flow mixing in a multi-orifice hopper [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.062206)
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
+**Graduate Engineering Trainee** @ _(Oct 2019 - Sep 2020)_ <br>
+Reliance Industries Limited, Jamnagar, India
+- A 
 Early-stage startup focused on automated API testing and NLP.
   - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
