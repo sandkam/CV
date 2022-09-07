@@ -60,14 +60,10 @@ National Institute of Technology (NIT), Surathkal, India _(2008 - 2012)_
 - **Powders & Grains (Virtual -2021)** Toward a large-scale particle-based parallel simulator of Aeolian sand transport<br>
 - **AGU Fall Meeting (Virtual - 2020)** Particle-based simulation of Aeolian sand transport: The effect of sand availability on the transport dynamics<br>
 - **Annual Soft Matter meet (BARC, Mumbai - 2013)** Enhanced mixing characteristics in a multiple orifice hopper
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
+<br> <br>
 
 
 ## 💬 Languages
-
 **English, Hindi, Kannada, Konkani, Tulu**: Native <br>
 **German**: B1
 <br><br>
