@@ -6,11 +6,18 @@ _Chemical Engineer turned Natural scientist based in Leverkusen, Germany_ <br>
 
 ## 👩🏼‍💻 Professional Experience
 
-**Research Assistant**, Fakultät für Physik, Universität Duisburg-Essen <br>
-_(Sep 2021 - Present)_ <br>
+**Research Assistant**, _(Sep 2021 - Present)_ <br>
+ Fakultät für Physik, Universität Duisburg-Essen <br>
 Extended the sanDEM to study dust emission.
   - Highly parallelizable as the original model, with an added layer for efficient communcation in polydisperse systems.
   - Includes modules for cohesion and stochastic turbulent fluctuations.
+<br><br>
+
+**Research Assistant**, _(Sep 2017 - Aug 2021)_ <br>
+Institut für Geophysik und Meteorologie, Universität Duisburg-Essen <br>
+Built the sanDEM software for aeolian sand transport, right from scratch.
+  - An open-source, large scale, parallelizable granular model developed in [LAMMPS](https://www.lammps.org/).
+  - Proposed a theory for transport in low sand availability conditions.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
