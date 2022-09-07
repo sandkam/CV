@@ -49,12 +49,11 @@ National Institute of Technology (NIT), Surathkal, India _(2008 - 2012)_
   - Thesis - 'Hydrodynamic Modeling of Packed-bed reactors for biological applications'
 
 ## 🖊️ Publications
-<ol>
-							<li> Kamath, S., et al., 2022. <em>Scaling laws in Aeolian sand transport under low sand availability</em>, Geophysical Research Letters, 49(11).</li>
-							<li> Tholen, K., Pähtz, T., Kamath, S., et al., 2022. <em>Anomalous scaling of aeolian sand transport due to cooperative granular dynamics</em>, Physical Review Letters (in review).</li>
-							<li> Kamath, S. and Parteli, E., 2021. <em>Toward a large-scale particle-based parallel simulator of Aeolian sand transport, including a model for mobile sand availability</em>, Powders & Grains 2021. </li>
-							<li> Kamath, S., et al., 2014. <em>Flow of granular matter in a silo with multiple exit orifices: Jamming to mixing</em>, Physical Review E, 90(6). </li>
-						</ol>
+<li> Kamath, S., et al., 2022. <em>Scaling laws in Aeolian sand transport under low sand availability</em>, Geophysical Research Letters, 49(11).</li>
+<li> Tholen, K., Pähtz, T., Kamath, S., et al., 2022. <em>Anomalous scaling of aeolian sand transport due to cooperative granular dynamics</em>, Physical Review Letters (in review).</li>
+<li> Kamath, S. and Parteli, E., 2021. <em>Toward a large-scale particle-based parallel simulator of Aeolian sand transport, including a model for mobile sand availability</em>, Powders & Grains 2021. </li>
+<li> Kamath, S., et al., 2014. <em>Flow of granular matter in a silo with multiple exit orifices: Jamming to mixing</em>, Physical Review E, 90(6). </li>
+<br> <br>
 
 ## 🎤 Conferences
 - **Powders & Grains (Virtual -2021)** Toward a large-scale particle-based parallel simulator of Aeolian sand transport<br>
