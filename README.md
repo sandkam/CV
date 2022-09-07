@@ -6,12 +6,11 @@ _Chemical Engineer turned Natural scientist based in Leverkusen, Germany_ <br>
 
 ## 👩🏼‍💻 Professional Experience
 
-**Research Assistant** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+**Research Assistant**, Fakultät für Physik, Universität Duisburg-Essen
+_(Sep 2021 - Present)_ <br>
+Extended the sanDEM to study dust
+  - Highly parallelizable as the original model, with an added layer for efficient communcation in polydisperse systems.
+  - Includes modules for cohesion and stochastic turbulent fluctuations.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
