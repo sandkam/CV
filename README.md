@@ -15,7 +15,7 @@ Extended the sanDEM to study dust emission.
 
 **Research Assistant**, _(Sep 2017 - Aug 2021)_ <br>
 Institut für Geophysik und Meteorologie, Universität Duisburg-Essen <br>
-Built the sanDEM software for aeolian sand transport, right from scratch.
+Built the sanDEM (using a CFD-DEM approach at particle-fluid interface) software for aeolian sand transport, right from scratch.
   - An open-source, large scale, parallelizable granular model developed in [LAMMPS](https://www.lammps.org/).
   - Proposed a theory for transport in low sand availability conditions.
 <br><br>
