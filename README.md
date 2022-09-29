@@ -63,6 +63,6 @@ National Institute of Technology (NIT), Surathkal, India _(2008 - 2012)_
 
 
 ## 💬 Languages
-**English, Hindi, Kannada, Konkani, Tulu**: Native <br>
+**English, Hindi**: Native <br>
 **German**: B1
 <br><br>
